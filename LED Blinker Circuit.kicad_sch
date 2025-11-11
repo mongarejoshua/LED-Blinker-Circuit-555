@@ -1606,7 +1606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P1.90mm_Vertical"
 			(at 127.762 63.5 90)
 			(effects
 				(font
@@ -1732,7 +1732,7 @@
 				)
 			)
 		)
-		(property "Value" "10nano"
+		(property "Value" "10n"
 			(at 168.91 95.25 90)
 			(effects
 				(font
@@ -1740,7 +1740,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D4.5mm_P15.00mm_Horizontal"
 			(at 172.72 99.3648 0)
 			(effects
 				(font
@@ -1808,7 +1808,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical"
 			(at 118.11 99.568 90)
 			(effects
 				(font
@@ -1878,7 +1878,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P5.08mm_Horizontal"
 			(at 127.762 74.93 90)
 			(effects
 				(font
@@ -2336,7 +2336,7 @@
 				)
 			)
 		)
-		(property "Value" "10micro"
+		(property "Value" "10u"
 			(at 120.269 76.2 90)
 			(effects
 				(font
@@ -2344,7 +2344,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Axial_L10.0mm_D6.0mm_P15.00mm_Horizontal"
 			(at 115.57 82.2452 0)
 			(effects
 				(font
@@ -2480,7 +2480,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x01_P2.54mm_Horizontal"
 			(at 166.37 59.69 0)
 			(effects
 				(font
@@ -2550,7 +2550,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_THT:LED_D3.0mm_Horizontal_O1.27mm_Z2.0mm_Clear"
 			(at 181.61 90.17 0)
 			(effects
 				(font
