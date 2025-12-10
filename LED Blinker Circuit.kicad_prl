@@ -115,8 +115,8 @@
   "project": {
     "files": [
       {
-        "name": "LED Blinker Circuit.kicad_pro",
-        "open": false,
+        "name": "LED Blinker Circuit.kicad_sch",
+        "open": true,
         "window": {
           "display": 0,
           "maximized": true,
@@ -124,18 +124,6 @@
           "pos_y": -8,
           "size_x": 1382,
           "size_y": 784
-        }
-      },
-      {
-        "name": "LED Blinker Circuit.kicad_sch",
-        "open": true,
-        "window": {
-          "display": 0,
-          "maximized": false,
-          "pos_x": 0,
-          "pos_y": 0,
-          "size_x": 1280,
-          "size_y": 720
         }
       }
     ]
